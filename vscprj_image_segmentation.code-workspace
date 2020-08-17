@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\..\\00_MLDL\\00_BreadBrother\\04_Image_Segmentation"
+	}
+],
+"settings": {
+	"python.pythonPath": "C:\\Users\\user\\anaconda3\\envs\\peakdetection\\python.exe"
+}
+}
